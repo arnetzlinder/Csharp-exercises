@@ -1,0 +1,16 @@
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\bin\Debug\net7.0-windows\Exempel03-09.exe
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\bin\Debug\net7.0-windows\Exempel03-09.deps.json
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\bin\Debug\net7.0-windows\Exempel03-09.runtimeconfig.json
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\bin\Debug\net7.0-windows\Exempel03-09.dll
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\bin\Debug\net7.0-windows\Exempel03-09.pdb
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\testet.Form1.resources
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.csproj.GenerateResource.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.AssemblyInfoInputs.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.AssemblyInfo.cs
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.csproj.CoreCompileInputs.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.dll
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\refint\Exempel03-09.dll
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.pdb
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\Exempel03-09.genruntimeconfig.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\testet\obj\Debug\net7.0-windows\ref\Exempel03-09.dll

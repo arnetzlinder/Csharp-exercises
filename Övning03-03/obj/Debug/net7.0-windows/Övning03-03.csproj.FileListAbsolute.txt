@@ -3,7 +3,6 @@ C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\bin\Deb
 C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\bin\Debug\net7.0-windows\Övning03-03.runtimeconfig.json
 C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\bin\Debug\net7.0-windows\Övning03-03.dll
 C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\bin\Debug\net7.0-windows\Övning03-03.pdb
-C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\obj\Debug\net7.0-windows\Övning03-03.csproj.AssemblyReference.cache
 C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\obj\Debug\net7.0-windows\Övning03_03.Form1.resources
 C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\obj\Debug\net7.0-windows\Övning03-03.csproj.GenerateResource.cache
 C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Övning03-03\obj\Debug\net7.0-windows\Övning03-03.GeneratedMSBuildEditorConfig.editorconfig
