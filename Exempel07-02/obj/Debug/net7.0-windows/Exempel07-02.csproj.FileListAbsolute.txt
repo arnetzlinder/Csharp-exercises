@@ -1,0 +1,16 @@
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\bin\Debug\net7.0-windows\Exempel07-02.exe
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\bin\Debug\net7.0-windows\Exempel07-02.deps.json
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\bin\Debug\net7.0-windows\Exempel07-02.runtimeconfig.json
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\bin\Debug\net7.0-windows\Exempel07-02.dll
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\bin\Debug\net7.0-windows\Exempel07-02.pdb
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07_02.Form1.resources
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.csproj.GenerateResource.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.AssemblyInfoInputs.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.AssemblyInfo.cs
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.csproj.CoreCompileInputs.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.dll
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\refint\Exempel07-02.dll
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.pdb
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\Exempel07-02.genruntimeconfig.cache
+C:\Users\smsli\OneDrive\Dokument\Programmering1\MinaProjekt\Exempel07-02\obj\Debug\net7.0-windows\ref\Exempel07-02.dll

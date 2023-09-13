@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Övning03-03", "Övning03-0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exempel03-09", "testet\Exempel03-09.csproj", "{E1A7FFBF-E236-4157-B817-C807C0A9E89B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exempel05-01", "Exempel05-01\Exempel05-01.csproj", "{03A9F1B7-7EB7-4250-ACDB-431C8BCA2FCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exempel05-01", "Exempel05-01\Exempel05-01.csproj", "{03A9F1B7-7EB7-4250-ACDB-431C8BCA2FCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning05-03", "Övning05-03\Övning05-03.csproj", "{698D820C-83F3-462A-8B22-79AA61D4822F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Övning05-03", "Övning05-03\Övning05-03.csproj", "{698D820C-83F3-462A-8B22-79AA61D4822F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlämningsuppgift 1 L0002B", "Inlämningsuppgift 1 L0002B\Inlämningsuppgift 1 L0002B.csproj", "{3803CC35-D48A-44C8-B240-3D09963AFA39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlämningsuppgift 1 L0002B", "Inlämningsuppgift 1 L0002B\Inlämningsuppgift 1 L0002B.csproj", "{3803CC35-D48A-44C8-B240-3D09963AFA39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning07-01", "Övning07-01\Övning07-01.csproj", "{E4010AB1-7581-483A-A156-BA6414E2F333}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Övning07-01", "Övning07-01\Övning07-01.csproj", "{E4010AB1-7581-483A-A156-BA6414E2F333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exempel07-02", "Exempel07-02\Exempel07-02.csproj", "{74833AB2-7BDC-42B5-BE26-904FE090042E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{E4010AB1-7581-483A-A156-BA6414E2F333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4010AB1-7581-483A-A156-BA6414E2F333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4010AB1-7581-483A-A156-BA6414E2F333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74833AB2-7BDC-42B5-BE26-904FE090042E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74833AB2-7BDC-42B5-BE26-904FE090042E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74833AB2-7BDC-42B5-BE26-904FE090042E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74833AB2-7BDC-42B5-BE26-904FE090042E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

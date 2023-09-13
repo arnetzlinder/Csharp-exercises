@@ -21,7 +21,7 @@ namespace Övning07_01
                 double tankMängd = (fullTank - literBensin);
                 double kostnad = tankMängd * bensinPris;
 
-                lblSvar.Text = "Tanka " + tankMängd + " liter. Det kostar " + kostnad + " kr." + " Eller så skaffar du elbil, mycket bättre!";
+                lblSvar.Text = "Tanka " + tankMängd + " liter. Det kostar " + kostnad + " kr.";
             }
         }
     }
